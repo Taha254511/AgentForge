@@ -1,6 +1,13 @@
 # 🤖 AgentForge
 
 **AgentForge** is a collection of AI-powered agents and experiments built using Python, Agno, Groq, and other tools. The project explores AI agents, multi-agent systems, persistent memory, financial research, and interactive applications.
+## 📸 Screenshot
+
+### YouTube Analyzer
+<img width="1902" height="987" alt="Screenshot 2026-10-11 143238" src="https://github.com/user-attachments/assets/bdf1c128-dbec-45c4-a219-87155d756b61" />
+<img width="1901" height="1022" alt="Screenshot 2026-10-11 143224" src="https://github.com/user-attachments/assets/e6b938ec-c033-4d5d-bdaa-4a891ecc0ef4" />
+
+![YouTube Analyzer](PASTE_IMAGE_URL_HERE)
 
 ## ✨ Features
 
